@@ -1,6 +1,7 @@
 /*front page*/
 .first {
    background-image: url('../portofolio/back.jpg');
+   height: 200px;
    background-size: contain;
    background-attachment: fixed;
    background-attachment: scroll;
