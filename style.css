@@ -1,6 +1,6 @@
 /*front page*/
 .first {
-    background-image: url('../back.jpg');
+    background-image: url('back.jpg');
    background-size: contain;
    background-attachment: fixed;
    background-attachment: scroll;
